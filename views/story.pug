@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+
+  p= story.body
+
+  ul.list
+    each link in links
+      li= link.description 
