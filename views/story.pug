@@ -5,6 +5,9 @@ block content
 
   p= story.body
 
-  ul.list
+  ul
     each link in links
-      li= link.description 
+      li
+       a.btn.btn-primary(href= link.target_id)=link.description  
+        
+    
