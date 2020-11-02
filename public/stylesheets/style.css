@@ -12,12 +12,13 @@ a {
 ul {
   display: flex;
   list-style: none;
-  margin-left: 20%; }
+  margin-left: 2%; }
 
 p {
-  margin-left: 10%;
-  margin-bottom: 10%;
-  margin-top: 8%; }
+  margin-left: 4%;
+  margin-bottom: 5%;
+  margin-top: 8%;
+  margin-right: 45%; }
 
 li {
   margin-left: 8%; }
