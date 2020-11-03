@@ -15,7 +15,7 @@ ul {
   margin-left: 2%; }
 
 p {
-  margin-left: 4%;
+  margin-left: 1%;
   margin-bottom: 5%;
   margin-top: 2%;
   margin-right: 45%; }
@@ -24,7 +24,7 @@ li {
   margin-left: 8%; }
 
 nav {
-  margin-bottom: 10%;
+  margin-bottom: 5%;
   margin-left: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 110%; }
@@ -32,6 +32,6 @@ nav {
 nav2 {
   margin-left: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 80%; }
+  font-size: 70%; }
 
 /*# sourceMappingURL=style.css.map */
