@@ -17,17 +17,21 @@ ul {
 p {
   margin-left: 4%;
   margin-bottom: 5%;
-  margin-top: 8%;
+  margin-top: 2%;
   margin-right: 45%; }
 
 li {
   margin-left: 8%; }
 
 nav {
-  margin-left: 20%;
+  margin-bottom: 10%;
+  margin-left: 10%;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 130%;
+  font-size: 110%; }
 
-}
+nav2 {
+  margin-left: 10%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 80%; }
 
 /*# sourceMappingURL=style.css.map */
