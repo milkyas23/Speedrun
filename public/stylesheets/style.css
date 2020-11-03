@@ -23,4 +23,11 @@ p {
 li {
   margin-left: 8%; }
 
+nav {
+  margin-left: 20%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 130%;
+
+}
+
 /*# sourceMappingURL=style.css.map */
