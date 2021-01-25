@@ -3,6 +3,7 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: burlywood;
   background-image: url("/images/bild1.jpg");
+  background-size: 100%;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 150%; }
 
